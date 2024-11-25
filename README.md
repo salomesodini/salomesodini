@@ -8,7 +8,7 @@
 - 💞️ When I'm not coding, you can find me doing yoga, attempting to run or writing cheesy posts. 
 - 📫 How to reach me: salo.sodini@gmail.com. I am also on Twitter/X (senzasquadre)
 - 😄 Pronouns: she/her (English), lei/di lei (Italian), ela/dela (Portuguese)
-- ⚡ Fun fact: I was scared of blood and needles, before getting into Midwifery.
+- ✨ Fun fact: I was scared of blood and needles, before getting into Midwifery.
 
 <!---
 salomesodini/salomesodini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
