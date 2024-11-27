@@ -6,7 +6,7 @@
 - 👀 I’m interested in intersetional feminism, coffee breaks & (trying to) make things better. 
 - 🌱 I’m currently learning Python, SQL & HTML + CSS.
 - 💞️ When I'm not coding, you can find me doing yoga, attempting to run or writing cheesy posts. 
-- 📫 How to reach me: salo.sodini@gmail.com. I am also on Twitter/X (senzasquadre)
+- 📫 How to reach me: salo.sodini@gmail.com. I am also on Twitter/X ( @EsseSalome )
 - 😄 Pronouns: she/her (English), lei/di lei (Italian), ela/dela (Portuguese)
 - ✨ Fun fact: I was scared of blood and needles, before getting into Midwifery.
 
