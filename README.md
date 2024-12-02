@@ -1,5 +1,7 @@
-<b>"It’s not what the world holds for you, it is what you bring to it."</b><br>
-<i>Anne with an E</i><br>
+<b>Ciao! Welcome!</b>
+
+<i>"It’s not what the world holds for you, it is what you bring to it."</i><br>
+Anne with an E<br>
 
 - 👋 Hi, I’m @salomesodini - a midwife turned an apprentice software engineer.
 - 💻 I'm about to start a bootcamp at CodeSpace Academy (@EdinburghCollege)
