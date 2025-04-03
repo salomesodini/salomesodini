@@ -8,7 +8,7 @@ Anne with an E<br>
 - 💬 I speak: English, Italian and (Brazilian, can do European if I need) Portuguese.
 - 😄 Pronouns: she/her (English), lei/sua (Italian), ela/dela (Portuguese)
 - ✨ Fun fact: I was scared of blood and needles, before getting into Midwifery.
-- 💻 I'm working towards a bootcamp at CodeSpace Academy (@EdinburghCollege)
+- 💻 I completed a bootcamp at CodeSpace Academy (@EdinburghCollege)
 - 👀 I’m interested in intersetional feminism, coffee breaks & (trying to) make things better. 
 - 🌱 I’m currently learning CSS + HTML, Javascript, PHP, Python & SQL.
 - 💞️ When I'm not coding, you can find me doing yoga, attempting to run or writing cheesy posts. 
